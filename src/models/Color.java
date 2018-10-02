@@ -1,7 +1,7 @@
 package models;
 
 public enum Color {
-    BLANCO('B'), NEGRO('N'), AMARILLO('A'), ROJO('R'), VERDE('V');
+    BLANCO('B'), NEGRO('N'), AMARILLO('A'), ROJO('R'), VERDE('V'), AZUL('Z');
 
     char codigo;
 
